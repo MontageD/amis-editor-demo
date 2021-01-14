@@ -10,6 +10,8 @@ amis 可视化编辑器, 在线体验：http://fex-team.github.io/amis-editor-de
 2. `npm start` 开服务
 3. `npm run dev` 开始编译，等编译出现时间信息后就可以刷新页面看效果了。
 
+update
+
 ## 在其他项目中使用 amis-editor
 
 ```
